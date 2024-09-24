@@ -1,2 +1,2 @@
 # Flappy-Bird
-#Help
+Help
